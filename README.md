@@ -1,6 +1,6 @@
 # Bypass-AmsiScanBuffer
 
-Bypass AmsiScanBuffer with obfuscation inspired by the rasta-mouse bypass
+Bypass AmsiScanBuffer for Powershell with obfuscation inspired by the rasta-mouse bypass
 
 ## Code Bypass
 
